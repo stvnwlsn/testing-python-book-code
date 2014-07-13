@@ -1,0 +1,5 @@
+# Files and directories not being tracked
+
+*.pyc
+.coverage
+venv/

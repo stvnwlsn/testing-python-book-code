@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bank App</title>
+</head>
+<body>
+
+<form id="account-form">
+    <label>Account Number: </label><input name="account_number" 
+    type="text"/>
+    <input type="submit"/>
+</form>
+
+{% if balance %}
+Balance: {{ balance }}
+{% endif %}
+
+</body>
+</html>
