@@ -9,3 +9,9 @@ venv/
 output.xml
 log.html
 report.html
+
+# Cover output directory
+cover/
+
+# Pylint output
+pylint.txt

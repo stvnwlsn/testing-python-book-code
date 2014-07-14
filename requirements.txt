@@ -1,6 +1,7 @@
 Flask==0.10.1
 Jinja2==2.7.3
 MarkupSafe==0.23
+Paver==1.2.2
 WebOb==1.4
 WebTest==2.0.15
 Werkzeug==0.9.6
