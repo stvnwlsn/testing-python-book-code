@@ -4,3 +4,8 @@
 .coverage
 venv/
 *.swp
+
+# Output from Robot Tests pybot test runner
+output.xml
+log.html
+report.html
